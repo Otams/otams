@@ -11,7 +11,7 @@ I'm a passionate **Data Scientist / Backend Developer-in-training** with a backg
 - 🌱 Currently learning: **Backend Development (ALX), API design, Django, Deployment**
 - 🔭 Working on: **A portfolio of 60+ data science & backend projects + a UAV object detection model**
 - 🌍 Languages: **Python, SQL, JavaScript (learning), English, Igbo**
-- 📫 How to reach me: **otamiritriumph@gmail.com**
+- 📫 How to reach me: **triumphotamiri@gmail.com**
 - ⚡ Fun fact: **I once ran a CoreDAO campaign at an NYSC camp with over 1,200 attendees!**
 
 ## My Skills 🧠
@@ -49,9 +49,8 @@ A regression model predicting **used car prices** based on various features like
 
 ## Get in Touch 📬
 
-- [LinkedIn](https://www.linkedin.com/in/otamiritriumph)
-- [Twitter](https://twitter.com/Otams_)
-- [CoreDAO Blog Feature](https://coredao.org/blog/unlocking-btcfi-issue-16)
+- [LinkedIn](www.linkedin.com/in/triumphotamiri)
+- [Twitter](https://x.com/otamiri_triumph)
 - [Email](mailto:triumphotamiri@gmail.com)
 
 
