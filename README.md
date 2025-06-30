@@ -1,8 +1,7 @@
-## Hi there 👋
 
 # Hi there, I'm Triumph Otamiri! 👋
 
-![Banner Image]((https://github.com/Otams/otams/blob/main/ChatGPT%20Image%20Jun%2030%2C%202025%2C%2001_10_32%20PM.png))
+![Banner Image](https://github.com/Otams/otams/blob/main/ChatGPT%20Image%20Jun%2030%2C%202025%2C%2001_10_32%20PM.png)
 
 ## About Me 🚀
 
