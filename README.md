@@ -30,7 +30,7 @@ I'm a passionate **Data Scientist / Backend Developer-in-training** with a backg
 
 ### [UAV Object Detection & Tracking Model](https://github.com/your_repo_link_here)
 
-![Project 1 Screenshot](project_1_screenshot_url)
+![Project 1 Screenshot](https://github.com/Otams/otams/blob/main/WhatsApp%20Image%202025-06-30%20at%201.32.26%20PM.jpeg)
 
 This is a **deep learning-based model** for detecting and tracking UAVs in dynamic environments, developed as my final year capstone project. Built with **YOLOv5 and OpenCV**, it demonstrates my skills in **computer vision, model training, and system design**.
 
